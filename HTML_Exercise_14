@@ -1,26 +1,26 @@
 <!doctype html>
-<html style="background-color:#81DAF5">
-  <div id="intro" style="background-color:#FFA07A; width:70%; margin: auto;">
-    <head><title>Mallory's Webpage</title></head>
+<html style="background-color:#d2d0cf">
+  <div id="intro" style="background-color:#bfbbba; width:70%; margin: auto;">
+<hr style="height:2px:color:blue; border-color: blue; background-color: blue;">
+    <head><title>Social Media</title></head>
     <body style="font-size:16pt;">
-      <h1 style="text-align:center; color:red;">&hearts;Mallory's Homepage&hearts;</h1>
-      <p style="text-align:center;">This webpage was created to tell my viewers a little about myself. </p>
+      <h1 style="text-align:center; color:#e8907d;">&hearts;Top Social Media Websites&hearts;</h1>
+      <p style="text-align:center;">Social Media are interactive computer-mediated technologies that facilitate the creation and sharing of information, ideas, career interests, and other forms of expression via virtual communities and networks. </p>
       <hr style="height:2px:color:blue; border-color: blue; background-color: blue;">
     </div>
-  <div id="facts" style="background-color:#D2B4De; width:70%; margin: auto;">
-    <h2 style="text-align:left-side; color:blue;"> &diams;Website Updates&diams;</h2>
-    <p>I will be updating this webpage <strong>constantly</strong>. Listed below are some topics to come:</p>
-    <ul>
-      <li>1. <strong>Facts</strong> about myself.</li>
-      <li>2. My <em>hobbies</em> and <em>interests</em>.</li>
-      <li>3. <strong>Future</strong> pland and goals.</li>
-    </ul>
+  <div id="facts" style="background-color:#e8907d ; width:70%; margin: auto;">
+ <hr style="height:2px:color:blue; border-color: blue; background-color: blue;">
+    <h2 style="text-align:center; color:#bfbbba;"> &diams;Most Popular Social Media Websites&diams;</h2>
+    <p>Listed below are the top Social Media Websites out there today.</p>
+   <a href="https://twitter.com"><target="_blank">Twitter</a> <a href="https://www.facebook.com"><target="_blank">Facebook</a> <a href="https://www.instagram.com"><target="_blank">Instagram</a>
+ <hr style="height:2px:color:blue; border-color: blue; background-color: blue;">
   </div>
-  <div id="thank you" style="background-color:#F7DC6F; width:70%; margin: auto;">
-    <hr style="height:2px:color:blue; border-color:blue; background-color: blue;"/>
-    <p>Thanks for reading, see you soon!<br/>
-
-    Sincerely, <em>Mallory</em></p>
+ <div id="facts" style="background-color:#bfbbba ; width:70%; margin: auto;">
+ <hr style="height:2px:color:blue; border-color: blue; background-color: blue;">
+    <h2 style="text-align:center; color:#e8907d;"> &diamsAll About My Favorite Websites&diams;</h2>
+    <p>Click the link listed below to read about my personal favorite websites.</p>
+   <a href="https://twitter.com"><target="_blank">My Favorite Websites</a> 
+ <hr style="height:2px:color:blue; border-color: blue; background-color: blue;">
   </div>
 </body>
 </html>
