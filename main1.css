@@ -1,0 +1,21 @@
+h1{
+	color:red;
+	font-size: 20pt;
+	font-family: Georgia;
+	Font-style: italic;
+	font-weight: bold;
+	
+}
+h2{
+	color:blue;
+	font-size: 16pt;
+	font-family: Arial;
+	Font-style: italic;
+	font-weight: bold;
+}
+p{
+	color:green;
+	font-size: 12pt;
+	font-family: sans-serif;
+	Font-style: normal;
+}
