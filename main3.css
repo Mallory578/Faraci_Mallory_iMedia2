@@ -1,0 +1,27 @@
+h1{
+	background-color:red;
+	padding-top:20px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: blue;
+	margin: 50px;
+	
+}
+p{
+	background-color:blue;
+	padding-top:20px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: red;
+	margin: 50px;
+}
+span{
+	color: white;
+	text-decoration: underline;
+}
